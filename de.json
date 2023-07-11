@@ -17,7 +17,7 @@
     "Астероидный прииск": "Asteroidenmine",
     "Звездные врата": "Stargate",
     "средняя цена товара в трюме: {0}{1}": "durchschnittlicher Warenpreis im Lager: {0}{1}",
-    "{0}<sub>шт": "{0}<sub>Stück",
+    "{0}<sub>шт": "{0}<sub>x",
     "двигатель \"{0}\"": "motor \"{0}\"",
     "кабина \"{0}\"": "kabine \"{0}\"",
     "трюм \"{0}\"": "halten Sie \"{0}\"",
